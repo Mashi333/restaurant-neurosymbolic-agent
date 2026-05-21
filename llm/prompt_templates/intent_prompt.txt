@@ -1,0 +1,11 @@
+Extract the intent and constraints from the user input into a valid JSON object.
+
+Keys you may include (only include keys that are mentioned or implied):
+- "food_type"    : string  (e.g. "pizza", "burger", "salad")
+- "vegetarian"   : boolean (true / false)
+- "budget"       : number  (maximum price in USD)
+- "allergies"    : list of strings (e.g. ["peanut", "dairy"])
+- "quantity"     : number  (how many items the user wants)
+
+User Input: {user_input}
+JSON Output:

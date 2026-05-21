@@ -1,0 +1,20 @@
+[
+ {
+  "name":"Veg Burger",
+  "price":7,
+  "vegetarian":true,
+  "ingredients":["bun", "lettuce", "tomato", "patty"]
+ },
+ {
+  "name":"Cheese Pizza",
+  "price":12,
+  "vegetarian":true,
+  "ingredients":["dough", "cheese", "tomato sauce"]
+ },
+ {
+  "name":"Pepperoni Pizza",
+  "price":15,
+  "vegetarian":false,
+  "ingredients":["dough", "cheese", "tomato sauce", "pepperoni"]
+ }
+]
